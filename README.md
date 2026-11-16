@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="RNN Sentiment" width="100%"></p>
+
 # RNN sentiment analysis with TensorFlow and Keras
 
 Lab work for CSET312 (Week 11), Bennett University.
@@ -26,3 +28,7 @@ The notebook classifies Amazon product reviews as positive or negative. It train
 3. Open `CSET312_Lab_Week11_RNN_Sentiment.ipynb` in Jupyter and run all cells.
 
 `Week11_viva_notes.md` has my short notes for the viva.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
